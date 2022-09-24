@@ -38,7 +38,7 @@ public class Main {
         }
 
         //ДЗ-2
-        //Задание 4,5
+        //Задание 1,2
         int total3 = 15000;
         int month = 0;
         while (total3 <=12000000) {
@@ -51,7 +51,7 @@ public class Main {
         System.out.println(total3);
         System.out.println(month);
 
-        //Задание6
+        //Задание3
         int total4 = 15000;
         int month2 = 0;
         for (; month2 <=108; month2++) {
@@ -59,7 +59,7 @@ public class Main {
         }
         System.out.println("Месяц " + month2 + " Итого " + total4);
 
-        //Задание7
+        //Задание4
         int Day = 7;
         for (; Day <=31; Day++) {
             if (Day == 7) {
@@ -71,7 +71,7 @@ public class Main {
         }
 
         //ДЗ-3
-        //Задание8
+        //Задание1
         int Year = 0;
         //int YearComet = 79;
         for (; Year <= 2120; Year = Year + 79) {
@@ -80,7 +80,7 @@ public class Main {
             }
         }
 
-        //Задача9
+        //Задача2
         int n = 2;
         int x = 1;
         for (; x<=10; x++) {
